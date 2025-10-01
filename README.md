@@ -1,5 +1,7 @@
 ## Bem-vindo(a) ao perfil do Jean Dev 😁
 
+<img src="https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif" width="200" />
+
  <div>
    <a href="https://github.com/jeancb-criador
 ">
@@ -8,20 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jeancb-creator&show_icons=true&theme=dark" />
 </p>
 
-<div>
 
-<p>
-align="center"
-<img src="![Preview](https://i.imgur.com/SEU_GIF.gif)" />
-
- 
-</p>
-
- 
-</div>
-
-
-</div>
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
