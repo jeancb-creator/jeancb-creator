@@ -8,10 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jeancb-creator&show_icons=true&theme=dark" />
 </p>
 
-<p align="center">
-  <!-- Contador de Visitas -->
-  ![Profile Views](https://komarev.com/ghpvc/?username=jeancb-creator)
-</p>
 
 
 </div>
