@@ -8,6 +8,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jeancb-creator&show_icons=true&theme=dark" />
 </p>
 
+<div>
+
+<p>
+align="center"
+<img src="![Preview](https://i.imgur.com/SEU_GIF.gif)" />
+
+ 
+</p>
+
+ 
+</div>
 
 
 </div>
