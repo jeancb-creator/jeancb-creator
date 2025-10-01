@@ -3,10 +3,15 @@
  <div>
    <a href="https://github.com/jeancb-criador
 ">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeancb-criador
-&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeancb-criador
-&layout=compact&langs_count=6&theme=tokyonight"/>
+   <p align="center">
+  <!-- GitHub Readme Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jeancb-creator&show_icons=true&theme=dark" />
+</p>
+
+<p align="center">
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com/?user=jeancb-creator&theme=dark" />
+</p>
 </div>
     
 <div style="display: inline_block"><br>
