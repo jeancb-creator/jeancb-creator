@@ -1,10 +1,5 @@
 ## Bem-vindo(a) ao perfil do Jean Dev 😁
 
-<p align="center">
-  <img src="https://tenor.com/pt-BR/view/batman-caped-crusader-caped-crusader-batman-batman-pose-gif-12537728247115118999" alt="Batman GIF">
-</p>
-
-
 
 Sou desenvolvedor web com foco em front-end e adoro gifs animados 🎉
 
@@ -29,7 +24,7 @@ Sou desenvolvedor web com foco em front-end e adoro gifs animados 🎉
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Pra conteúdo sobre programação me segue  nas redes abaixo!
  
 <div> 
   
