@@ -1,6 +1,7 @@
 ## Bem-vindo(a) ao perfil do Jean Dev 😁
 
-<img src="https://media.tenor.com/VzJY2gLk4tYAAAAd/batman.gif" width="300" />
+<img src="./assets/batman.gif" width="300" />
+
 
 
  <div>
