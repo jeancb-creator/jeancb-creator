@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil do Jean Dev 😁
 
 <p align="center">
-  <img src="https://[media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif](https://tenor.com/pt-BR/view/batman-caped-crusader-caped-crusader-batman-batman-pose-gif-12537728247115118999)" alt="Batman GIF">
+  <img src="https://tenor.com/pt-BR/view/batman-caped-crusader-caped-crusader-batman-batman-pose-gif-12537728247115118999" alt="Batman GIF">
 </p>
 
 
