@@ -8,10 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jeancb-creator&show_icons=true&theme=dark" />
 </p>
 
-<p align="center">
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com/?user=jeancb-creator&theme=dark" />
-</p>
+
 </div>
     
 <div style="display: inline_block"><br>
