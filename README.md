@@ -1,7 +1,10 @@
 ## Bem-vindo(a) ao perfil do Jean Dev 😁
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="Batman GIF">
+</p>
 
-<img src="(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2lteGhremhqcHVnYW8zZWRxaHMwNmN2MGRraHd4NGY0aHd4cTQyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4jfJqiIxvU08/giphy.gif))" width="50" />
+
 
 Sou desenvolvedor web com foco em front-end e adoro gifs animados 🎉
 
